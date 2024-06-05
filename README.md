@@ -1,2 +1,1 @@
-# hi there
-salve familia, boa pa nois
+# salve familia boa pa nois
